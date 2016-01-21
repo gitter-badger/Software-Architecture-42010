@@ -40,6 +40,8 @@ A standard system architecture desctiption. It aims to conform the ISO 42010 to 
 
 **Control View.** 如圖 2.1。
 
+![control-device](https://cloud.githubusercontent.com/assets/1126021/12474758/818b1056-c058-11e5-92e0-3b79906a0439.png)
+
 Fig 2-1: Abstraction Level and Hierarchy
 
 
